@@ -10,3 +10,8 @@
 Makefile
 depend
 zarith_version.ml
+z.ml
+z.mli
+z_features.h
+_build
+.merlin
